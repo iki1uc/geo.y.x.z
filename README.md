@@ -52,7 +52,7 @@ Kein Muss. Nur Stecken, wenn gewollt.
 ### LIVE
 
 - GEO: https://iki1uc.github.io/geo.y.x.z/
-- NET: https://iki1uc.github.io/ourNET/
+- NET: https://iki1uc.github.io/NET/
 
 ### HALT
 
